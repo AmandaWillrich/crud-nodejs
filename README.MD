@@ -14,11 +14,10 @@
  3. [Rodando o Projeto](#rodandoprojeto)
  4. [Acessando](#access)
 
-*******
 
 <div id='pre-requisitos'/>
 
-## 🚩 Pré Requisitos
+## 🚩 Pré-requisitos
 - NodeJS v20.9.0 ou superior;
 - PostgreSQL v16.2 ou superior;
 - Extensão Live Server;
