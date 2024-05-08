@@ -7,9 +7,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-**Criação de API**
 
-*******
 ## Conteúdo
  1. [Pré Requisitos](#pre-requisitos)
  2. [Criando o Banco de Dados](#database)
